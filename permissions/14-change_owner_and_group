@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent:staff
+chmod og 777 vincent staff
