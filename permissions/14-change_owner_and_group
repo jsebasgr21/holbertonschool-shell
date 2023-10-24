@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod og 777 vincent staff
+chmod --from vincent:staff
