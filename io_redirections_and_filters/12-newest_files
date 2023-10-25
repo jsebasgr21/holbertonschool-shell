@@ -1,2 +1,2 @@
 #!/bin/bash
-find -atime -0 | ls | sort
+find -atime -0 | tail -n 10 | sort
