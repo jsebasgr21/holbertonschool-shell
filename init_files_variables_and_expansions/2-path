@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$PATH/action" | cut -d: -f 2
+echo "$PATH/action" | cut -f 2
