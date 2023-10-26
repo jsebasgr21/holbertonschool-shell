@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%f\n" "$NUM" | cut -b 1,2,3,4
+printf "%f\n" "$NUM" | cut -c 1-4
